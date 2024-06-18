@@ -2,7 +2,7 @@
 
 ## Nombre del Grupo: Los Practicantes.
 
--Blanco Luis
+```-Blanco Luis
 -Perez Gabriela
 -Velardez Natalia
 -Vera Vera Leonardo
