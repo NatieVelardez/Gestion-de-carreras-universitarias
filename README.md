@@ -16,21 +16,21 @@ La estructura del proyecto está organizada de la siguiente manera:
 
 ```tp/
 ├── data/
-│ └── data.json
+│   └── data.json
 ├── src/
-│ ├── controladores/
-│ │ └── carrera.controllers.js
-    └── materias.controllers.js
-│ ├── middlewares/
-    └── carreras.middlewares.js
-    └── materias.middlewares.js
-│ │ └── validador.schema.js
-│ ├── models/
-│ │ └── models.schema.js
-│ ├── routes/
-│ │ └── carreras.route.js
-│ │ └── materias.route.js
-│ └── app.js
+│   ├── controladores/
+│   │   └── carrera.controllers.js
+|   |   └── materias.controllers.js
+|   ├── middlewares/
+|   |   └── carreras.middlewares.js
+|   |   └── materias.middlewares.js
+│   |   └── validador.schema.js
+│   ├── models/
+│   |   └── models.schema.js
+│   ├── routes/
+│   |   └── carreras.route.js
+│   |   └── materias.route.js
+│   └── app.js
 ├── .env
 └── README.md
 
