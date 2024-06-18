@@ -8,10 +8,10 @@
 -Velardez Natalia
 -Vera Vera Leonardo
 
-## DESCRIPCIÓN DEL PROYECTO
+## DESCRIPCIÓN DEL PROYECTO.
 Este proyecto tiene como objetivo gestionar las carreras universitarias y sus materias asociadas. Implementamos una API REST utiliando Node.js y Express para manejar operaciones CRUD sobre las carreras y materias.
 
-## Estructura del Proyecto
+## ESTRUCTURA DEL PROYECTO.
 La estructura del proyecto está organizada de la siguiente manera:
 
 ```tp/
@@ -34,7 +34,7 @@ La estructura del proyecto está organizada de la siguiente manera:
 ├── .env
 └── README.md
 
-## Descripcion de Carpetas y Archivos
+## DESCRIPCIÓN DE CARPETAS Y ARCHIVOS.
 
 ```-data/: Contiene el archivo data.json que almacena los datos de las carreras y materias.
 -src/controladores/: Contiene los controladores que manejan la lógica de negocio de las rutas.
@@ -43,7 +43,7 @@ La estructura del proyecto está organizada de la siguiente manera:
 -src/routes/: Contiene las definiciones de las rutas para carreras y materias.
 -app.js: Configura y arranca el servidor Express.
 
-## Ejemplo de JSON de Datos
+## EJEMPLOS DE JSON Y DATOS.
 
 Formato de los datos almacenados en 'data.json':
 ```{
@@ -94,17 +94,15 @@ Formato de los datos almacenados en 'data.json':
     }
   ]
 }
- ## Configuración del Proyecto
+ ## CONFIGURACIÓN DEL PROYECTO.
 
-  Requisitos previos
-  
+  *Requisitos previos
   -Node.js
   -npm 
 
-  ## Instalación
+  ## INSTALACIÓN.
 
   1. Clona el repositorio:
-
   2. Instala las dependencias:
   -npm  i express.
   -npm  i -D.
@@ -117,7 +115,7 @@ Formato de los datos almacenados en 'data.json':
   -npm run dev
 El servidor debe estar corriendo en 'http://localhost:3000'
 
-## Endpoints de la API 
+## ENDPOINTS DE LA API.
 
 Carreras
 -GET/carreras: Obtener unas lista de todas las carreras.
@@ -133,8 +131,7 @@ Materias
 -DELETE/materias/:id: Eliminar una materia por ID.
 
 
-# Contacto
-
+# CONTACTO
 Para cualquier duda o consulta, comunicarse con cualquiera de los integrantes del proyecto.
 
 -Blanco Luis: 
@@ -145,7 +142,8 @@ Para cualquier duda o consulta, comunicarse con cualquiera de los integrantes de
 
 -Vera Vera Leonardo:
 
-## AGREGAR DB
+## ANEXAR BASES DE DATOS(sqlite)
+
 -Se instala:
  sequelize: biblioteca llamada ORM, que permite almacenar objetos de JavaScript en una base de datos relacional sin usar el Lenguaje SQL en si mismo.
    
