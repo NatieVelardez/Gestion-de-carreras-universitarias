@@ -8,7 +8,7 @@
 -Velardez Natalia
 -Vera Vera Leonardo
 
-## Descripción de Proyecto
+## DESCRIPCIÓN DEL PROYECTO
 Este proyecto tiene como objetivo gestionar las carreras universitarias y sus materias asociadas. Implementamos una API REST utiliando Node.js y Express para manejar operaciones CRUD sobre las carreras y materias.
 
 ## Estructura del Proyecto
