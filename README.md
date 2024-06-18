@@ -1,6 +1,6 @@
 # Proyecto de Gestion de Carreras Universitarias.
 
-## Nombre del Grupo: Los Practicantes.
+## GRUPO: Los Practicantes.
 
 ```
 -Blanco Luis
