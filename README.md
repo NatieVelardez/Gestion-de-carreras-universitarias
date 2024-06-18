@@ -150,16 +150,15 @@ Materias
 -DELETE/materias/:id: Eliminar una materia por ID.
 
 ## BASES DE DATOS (SQlite).
+-Instalación:
+Sequelize: Biblioteca ORM que permite almacenar objetos de JavaScript en una base de datos relacional sin usar el Lenguaje SQL en sí mismo.
+-npm install sequelize
+-npx sequelize -cli init: Inicializa el proyecto , genera carpetas dentro del SRC.
+-npx sequelize -cli model: Genera los modelos
+-npm i sqlite3: Instala el motor de base de datos SQlite.
 
-INSTALACIÓN:
--Sequelize: Biblioteca ORM que permite almacenar objetos de JavaScript en una base de datos relacional sin usar el Lenguaje SQL en sí mismo.
- -npm install sequelize
- -npx sequelize -cli init: Inicializa el proyecto , genera carpetas dentro del SRC.
- -npx sequelize -cli model: Genera los modelos
- -npm i sqlite3: Instala el motor de base de datos SQlite.
-
- HERRAMIENTA DE ADMINISTRACIÓN DE BASES DE DATOS
- -DBeaver Community: Aplicación de software cliente de SQL y herramienta de administracion de bases de datos.
+-Herramientas de adminitración de Bases de Datos:
+  DBeaver Community: Aplicación de software cliente de SQL y herramienta de administracion de bases de datos.
 
 -Configuración automatica de bases de datos:
 La Base de Datos SQLite, se configura automaticamente al iniciar la aplicacion, ya que el archivo index.js se encarga de leer todos los modelos definidos en el directorio y los sincroniza con la base de datos.
@@ -170,7 +169,7 @@ Realiza las migraciones o pre cargas de datos en el directorio correspondiente.
 -Estructura de Modelos :
  models/carrera.js, define el modelo Carrera. models/materia.js, define el modelo Materia.
 
-# CONTACTO
+## CONTACTO
 Para cualquier duda o consulta, comunicarse con cualquiera de los integrantes del proyecto.
 
 -Blanco Luis: 
