@@ -1,19 +1,17 @@
-# Proyecto de Gestion de Carreras Universitarias.
-
-## GRUPO: Los Practicantes.
-
+# Proyecto de Gestión de Carreras Universitarias.
 ```
-## GRUPO: Los Practicantes
+# GRUPO: Los Practicantes.
+
 -Blanco Luis
 -Perez Gabriela
 -Velardez Natalia
 -Vera Vera Leonardo
 
-## DESCRIPCIÓN DEL PROYECTO.
+# DESCRIPCIÓN DEL PROYECTO.
 Este proyecto tiene como objetivo gestionar las carreras universitarias y sus materias asociadas.
 Implementamos una API REST utiliando Node.js y Express para manejar operaciones CRUD sobre las carreras y materias.
 
-## ESTRUCTURA DEL PROYECTO.
+# ESTRUCTURA DEL PROYECTO.
 La estructura del proyecto está organizada de la siguiente manera:
 
 ```tp/
@@ -50,10 +48,9 @@ La estructura del proyecto está organizada de la siguiente manera:
 ├── package.json
 └── README.md
 
-
-## DESCRIPCIÓN DE CARPETAS Y ARCHIVOS.
-
 ```
+# DESCRIPCIÓN DE CARPETAS Y ARCHIVOS.
+
 -data/: Contiene el archivo data.json que almacena los datos de las carreras y materias.
 -src/controladores/: Contiene los controladores que manejan la lógica de negocio de las rutas.
 -src/middlewares/: Contiene los middlewares para la validación de esquemas y datos.
