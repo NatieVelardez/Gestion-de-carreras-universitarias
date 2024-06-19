@@ -136,7 +136,7 @@ Formato de los datos almacenados en 'data.json':
 4)_ Ejecuta el servidor:
   El servidor debe estar corriendo en 'http://localhost:3000'
    -npm run dev
-  
+  ```
 ## ENDPOINTS DE LA API.
 ```
 Carreras
