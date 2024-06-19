@@ -1,16 +1,16 @@
 # PROYECTO DE GESTIÓN UNIVERSITARIA.
-# GRUPO: Los practicantes.
+## GRUPO: Los practicantes.
 ```
 -Blanco Luis
 -Perez Gabriela
 -Velardez Natalia
 -Vera Vera Leonardo
 ```
-# DESCRIPCIÓN DEL PROYECTO.
+## DESCRIPCIÓN DEL PROYECTO.
 Este proyecto tiene como objetivo gestionar las carreras universitarias y sus materias asociadas.
 Implementamos una API REST utiliando Node.js y Express para manejar operaciones CRUD sobre las carreras y materias.
 
-# ESTRUCTURA DEL PROYECTO.
+## ESTRUCTURA DEL PROYECTO.
 La estructura del proyecto está organizada de la siguiente manera:
 
 ```tp/
@@ -48,18 +48,22 @@ La estructura del proyecto está organizada de la siguiente manera:
 └── README.md
 ```
 
-# DESCRIPCIÓN DE CARPETAS Y ARCHIVOS.
+## DESCRIPCIÓN DE CARPETAS Y ARCHIVOS.
 ```
 -data/: Contiene el archivo data.json que almacena los datos de las carreras y materias.
+
 -src/controladores/: Contiene los controladores que manejan la lógica de negocio de las rutas.
+
 -src/middlewares/: Contiene los middlewares para la validación de esquemas y datos.
+
 -src/models/: Contine los esquemas de validación utilizando Joi.
+
 -src/routes/: Contiene las definiciones de las rutas para carreras y materias.
+
 -app.js: Configura y arranca el servidor Express.
 ```
 
-# EJEMPLOS DE JSON Y DATOS.
-
+## EJEMPLOS DE JSON Y DATOS.
 Formato de los datos almacenados en 'data.json':
 ```{
   "carreras": [
@@ -149,7 +153,7 @@ Materias
 -DELETE/materias/:id: Eliminar una materia por ID.
 ```
 ## BASES DE DATOS (SQlite).
-
+```
 -Instalación:
 Sequelize: Biblioteca ORM que permite almacenar objetos de JavaScript en una base de datos relacional sin usar el Lenguaje SQL en sí mismo.
 -npm install sequelize
@@ -168,7 +172,7 @@ Realiza las migraciones o pre cargas de datos en el directorio correspondiente.
 
 -Estructura de Modelos :
  models/carrera.js, define el modelo Carrera. models/materia.js, define el modelo Materia.
-
+```
 ## CONTACTO
 Para cualquier duda o consulta, comunicarse con cualquiera de los integrantes del proyecto.
 
