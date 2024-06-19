@@ -122,18 +122,18 @@ Formato de los datos almacenados en 'data.json':
 ```
   ## INSTALACIÓN.
 ```
-  1. Clona el repositorio:https:https://github.com/NatieVelardez/Gestion-de-carreras-universitarias
+ ◽ Clona el repositorio:https:https://github.com/NatieVelardez/Gestion-de-carreras-universitarias
 
-  2. Instala las dependencias:
+ ◽ Instala las dependencias:
 
   -npm  i express.
   -npm  i -D nodemon.
   -npm i Joi.
   
-  3. Configura el archivo '.env':
+ ◽ Configura el archivo '.env':
   -PORT=3000
 
-  4. Ejecuta el servidor:
+ ◽ Ejecuta el servidor:
   -npm run dev
   El servidor debe estar corriendo en 'http://localhost:3000'
 ```
