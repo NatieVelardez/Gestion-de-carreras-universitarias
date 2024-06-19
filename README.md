@@ -1,6 +1,6 @@
 # Proyecto de Gestión de Carreras Universitarias.
 ```
-# GRUPO: Los Practicantes.
+# GRUPO: LOS PRACTICANTES.
 
 -Blanco Luis
 -Perez Gabriela
@@ -58,7 +58,7 @@ La estructura del proyecto está organizada de la siguiente manera:
 -src/routes/: Contiene las definiciones de las rutas para carreras y materias.
 -app.js: Configura y arranca el servidor Express.
 
-## EJEMPLOS DE JSON Y DATOS.
+### EJEMPLOS DE JSON Y DATOS.
 
 Formato de los datos almacenados en 'data.json':
 ```{
