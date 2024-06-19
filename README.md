@@ -4,7 +4,7 @@
 ▪ Blanco Luis 
 ▪ Perez Gabriela
 ▪ Velardez Natalia
-▪ Vera Vera Leonardo
+▪ Vera Vera Leonardo 
 ```
 ## DESCRIPCIÓN DEL PROYECTO.
 Este proyecto tiene como objetivo gestionar las carreras universitarias y sus materias asociadas.
