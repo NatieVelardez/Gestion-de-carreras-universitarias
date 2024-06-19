@@ -1,10 +1,10 @@
 # PROYECTO DE GESTIÓN UNIVERSITARIA.
 ## GRUPO: Los practicantes.
 ```
--Blanco Luis
--Perez Gabriela
--Velardez Natalia
--Vera Vera Leonardo
+⚫Blanco Luis
+Perez Gabriela
+Velardez Natalia
+Vera Vera Leonardo
 ```
 ## DESCRIPCIÓN DEL PROYECTO.
 Este proyecto tiene como objetivo gestionar las carreras universitarias y sus materias asociadas.
@@ -155,7 +155,7 @@ Materias
 ## BASES DE DATOS (SQlite).
 ```
 Instalación
-Sequelize:
+-Sequelize:
 Biblioteca ORM que permite almacenar objetos de JavaScript en una base de datos relacional sin usar el Lenguaje SQL en sí mismo.
 
 -npm install sequelize
@@ -163,32 +163,32 @@ Biblioteca ORM que permite almacenar objetos de JavaScript en una base de datos 
 -npx sequelize -cli model: Genera los modelos
 -npm i sqlite3: Instala el motor de base de datos SQlite.
 
-#### Herramientas de adminitración de Bases de Datos:
+-Herramientas de adminitración de Bases de Datos:
 
 DBeaver Community, aplicación de software cliente de SQL y herramienta de administracion de bases de datos.
 
-Configuración automatica de bases de datos:
+-Configuración automatica de bases de datos:
 
 La Base de Datos SQLite, se configura automaticamente al iniciar la aplicacion, ya que el archivo index.js se encarga de leer todos los modelos definidos en el directorio y los sincroniza con la base de datos.
 
-Migraciones y Seeders:
+-Migraciones y Seeders:
 
 Realiza las migraciones o pre cargas de datos en el directorio correspondiente.
 
-Estructura de Modelos :
+-Estructura de Modelos :
 
 models/carrera.js, define el modelo Carrera. models/materia.js, define el modelo Materia.
 ```
 ## CONTACTO
 Para cualquier duda o consulta, comunicarse con cualquiera de los integrantes del proyecto.
 
--Blanco Luis: 
+Blanco Luis: 
 
--Perez Gabriela: gaby.68.aries@hotmail.com
+Perez Gabriela: gaby.68.aries@hotmail.com
 
--Velardez Natalia:nvidanueva20@gmail.com
+Velardez Natalia:nvidanueva20@gmail.com
 
--Vera Vera Leonardo:
+Vera Vera Leonardo:
 
   
 
