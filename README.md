@@ -1,6 +1,6 @@
 # PROYECTO DE GESTIÓN UNIVERSITARIA.
 ## GRUPO: Los practicantes.
-```
+```plaintext
  **Blanco Luis**
 **Perez Gabriela**
  **Velardez Natalia**
