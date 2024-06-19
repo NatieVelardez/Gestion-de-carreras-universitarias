@@ -110,14 +110,14 @@ Formato de los datos almacenados en 'data.json':
   ]
 }
 ```
- # CONFIGURACIÓN DEL PROYECTO.
-
-  *Requisitos previos
+ ## CONFIGURACIÓN DEL PROYECTO.
+ ```
+  Requisitos previos:
   -Node.js
   -npm 
-
-  # INSTALACIÓN.
-
+```
+  ## INSTALACIÓN.
+```
   1. Clona el repositorio:https:https://github.com/NatieVelardez/Gestion-de-carreras-universitarias
 
   2. Instala las dependencias:
@@ -132,9 +132,9 @@ Formato de los datos almacenados en 'data.json':
   4. Ejecuta el servidor:
   -npm run dev
   El servidor debe estar corriendo en 'http://localhost:3000'
-
-# ENDPOINTS DE LA API.
-
+```
+## ENDPOINTS DE LA API.
+```
 Carreras
 -GET/carreras: Obtener unas lista de todas las carreras.
 -GET/carreras/:id: Obtener una carrera por ID.
@@ -147,8 +147,9 @@ Materias
 -GET materias: Obtener una lista de todas las materias.
 -GET/materias/:id: Obtener una materia por ID.
 -DELETE/materias/:id: Eliminar una materia por ID.
+```
+## BASES DE DATOS (SQlite).
 
-# BASES DE DATOS (SQlite).
 -Instalación:
 Sequelize: Biblioteca ORM que permite almacenar objetos de JavaScript en una base de datos relacional sin usar el Lenguaje SQL en sí mismo.
 -npm install sequelize
