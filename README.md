@@ -47,7 +47,7 @@ La estructura del proyecto está organizada de la siguiente manera:
 ├── package-lock.json
 ├── package.json
 └── README.md
-
+```
 
 #DESCRIPCIÓN DE CARPETAS Y ARCHIVOS.
 ```
