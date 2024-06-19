@@ -154,7 +154,7 @@ Materias
 ```
 ## BASES DE DATOS (SQlite).
 ```
--Instalación:
+//Instalación
 Sequelize: Biblioteca ORM que permite almacenar objetos de JavaScript en una base de datos relacional sin usar el Lenguaje SQL en sí mismo.
 -npm install sequelize
 -npx sequelize -cli init: Inicializa el proyecto , genera carpetas dentro del SRC.
