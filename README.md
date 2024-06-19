@@ -130,10 +130,10 @@ Formato de los datos almacenados en 'data.json':
   -npm  i -D nodemon.
   -npm i Joi.
   
- 3)_ Configura el archivo '.env':
+3)_ Configura el archivo '.env':
    -PORT=3000
 
- 4)_ Ejecuta el servidor:
+4)_ Ejecuta el servidor:
   El servidor debe estar corriendo en 'http://localhost:3000'
    -npm run dev
   
