@@ -1,12 +1,11 @@
-# Proyecto de Gestión de Carreras Universitarias.
+# PROYECTO DE GESTIÓN UNIVERSITARIA.
+# GRUPO: Los practicantes.
 ```
-# GRUPO: LOS PRACTICANTES.
-
 -Blanco Luis
 -Perez Gabriela
 -Velardez Natalia
 -Vera Vera Leonardo
-
+```
 # DESCRIPCIÓN DEL PROYECTO.
 Este proyecto tiene como objetivo gestionar las carreras universitarias y sus materias asociadas.
 Implementamos una API REST utiliando Node.js y Express para manejar operaciones CRUD sobre las carreras y materias.
@@ -49,7 +48,7 @@ La estructura del proyecto está organizada de la siguiente manera:
 └── README.md
 ```
 
-#DESCRIPCIÓN DE CARPETAS Y ARCHIVOS.
+# DESCRIPCIÓN DE CARPETAS Y ARCHIVOS.
 ```
 -data/: Contiene el archivo data.json que almacena los datos de las carreras y materias.
 -src/controladores/: Contiene los controladores que manejan la lógica de negocio de las rutas.
@@ -57,6 +56,7 @@ La estructura del proyecto está organizada de la siguiente manera:
 -src/models/: Contine los esquemas de validación utilizando Joi.
 -src/routes/: Contiene las definiciones de las rutas para carreras y materias.
 -app.js: Configura y arranca el servidor Express.
+```
 
 # EJEMPLOS DE JSON Y DATOS.
 
@@ -109,13 +109,14 @@ Formato de los datos almacenados en 'data.json':
     }
   ]
 }
- ## CONFIGURACIÓN DEL PROYECTO.
+```
+ # CONFIGURACIÓN DEL PROYECTO.
 
   *Requisitos previos
   -Node.js
   -npm 
 
-  ## INSTALACIÓN.
+  # INSTALACIÓN.
 
   1. Clona el repositorio:https:https://github.com/NatieVelardez/Gestion-de-carreras-universitarias
 
@@ -132,7 +133,7 @@ Formato de los datos almacenados en 'data.json':
   -npm run dev
   El servidor debe estar corriendo en 'http://localhost:3000'
 
-## ENDPOINTS DE LA API.
+# ENDPOINTS DE LA API.
 
 Carreras
 -GET/carreras: Obtener unas lista de todas las carreras.
@@ -147,7 +148,7 @@ Materias
 -GET/materias/:id: Obtener una materia por ID.
 -DELETE/materias/:id: Eliminar una materia por ID.
 
-## BASES DE DATOS (SQlite).
+# BASES DE DATOS (SQlite).
 -Instalación:
 Sequelize: Biblioteca ORM que permite almacenar objetos de JavaScript en una base de datos relacional sin usar el Lenguaje SQL en sí mismo.
 -npm install sequelize
