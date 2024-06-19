@@ -155,14 +155,15 @@ Materias
 ## BASES DE DATOS (SQlite).
 ```
 Instalación
+Sequelize:
+Biblioteca ORM que permite almacenar objetos de JavaScript en una base de datos relacional sin usar el Lenguaje SQL en sí mismo.
 
-Sequelize: Biblioteca ORM que permite almacenar objetos de JavaScript en una base de datos relacional sin usar el Lenguaje SQL en sí mismo.
 -npm install sequelize
 -npx sequelize -cli init: Inicializa el proyecto , genera carpetas dentro del SRC.
 -npx sequelize -cli model: Genera los modelos
 -npm i sqlite3: Instala el motor de base de datos SQlite.
 
-Herramientas de adminitración de Bases de Datos:
+#### Herramientas de adminitración de Bases de Datos:
 
 DBeaver Community, aplicación de software cliente de SQL y herramienta de administracion de bases de datos.
 
